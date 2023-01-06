@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Fri, 06 Jan 2023 03:52:24</dateCreated>
+  </head>
+  <body>
+    <outline text="Developers">
+      <outline text="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/" description=""/>
+      <outline text="The Desolation of Blog" type="rss" xmlUrl="https://lapcatsoftware.com/articles/atom.xml" htmlUrl="https://lapcatsoftware.com/articles/index.html" description=""/>
+    </outline>
+    <outline text="Dev News">
+      <outline text="Exclusive Articles – Software Engineering Daily" type="rss" xmlUrl="https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/articles/feed/" htmlUrl="https://softwareengineeringdaily.com/" description=""/>
+      <outline text="Hacker News Daily" type="rss" xmlUrl="http://www.daemonology.net/hn-daily/index.rss" htmlUrl="http://www.daemonology.net/hn-daily/" description="Daily top stories from Hacker News"/>
+    </outline>
+    <outline text="InfoSec People">
+      <outline text="Daniel Miessler" type="rss" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com/" description=""/>
+      <outline text="tisiphone.net" type="rss" xmlUrl="https://tisiphone.net/feed/" htmlUrl="https://tisiphone.net/" description="[Lesley Carhart, Full Spectrum Cyber-Warrior Princess]"/>
+    </outline>
+    <outline text="Security">
+      <outline text="tl;dr sec" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/lxbafez4exhqzsxi.xml" htmlUrl="https://kill-the-newsletter.com/" description="Kill the Newsletter! Inbox:&#13;&#10;          lxbafez4exhqzsxi@kill-the-newsletter.com →&#13;&#10;          https://kill-the-newsletter.com/feeds/lxbafez4exhqzsxi.xml"/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="The Eclectic Light Company" type="rss" xmlUrl="https://eclecticlight.co/feed/" htmlUrl="https://eclecticlight.co/" description="Macs, painting, and more"/>
+    </outline>
+    <outline text="Updates">
+      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
+    </outline>
+  </body>
+</opml>
